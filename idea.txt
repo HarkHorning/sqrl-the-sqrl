@@ -1,0 +1,61 @@
+##The Idea
+* Matrix based storage.
+* To create data you bury or plant it.
+*Squirrels are users (Squirrel generation based IAM roles) die permanently and lost matrix without offspring.
+*Hawk Security System
+*Trees grow from nuts.
+*A squibbage of squirrels is a group
+*Fights between squirrels are quarrels
+*Queries are chitters
+*Data types are nuts
+*Tree nuts are numbers
+*Non tree nuts are strings
+*Acorns are special data type
+*Trail mix????
+*Fighting for your own domain
+*MOTHER TREE IS ROOT (have to route to your other trees with HOPS)
+*you are always given the option to eat your data to heal
+*hardened data types, coconuts vs acorns
+*dynamic rotting system
+*C-based perhaps Go for garbage collection
+*raylib compilation to javascript
+*(inscribe) a nut (that starts with garbage data) to convert to your own data
+*Does not use ACID
+*you can develop nut allergies
+*users that die and you have to set up generations by mating with other squirrels to get the offspring to inherit permissions and land
+*ACORN MADNESS
+*side banners for updates that never update
+*SQUEAK should be a keyword
+*to validate your access you have to do a CHITTER and you have to be at home tree, otherwise you will be attacked by hawk
+*METHINKS, PERHAPS, QUADRANT, instead of any definitive key words
+*"NEAR TREE" trees are references, trees grow into reference points
+*all data is accessed by its reference to the tree
+
+*How many users can a tree have?
+
+CHITTER
+SQUEAK
+METHINKS
+PERCHANCE
+QUADRANT
+HOP
+JUMP
+DIG
+BURY
+CACHE
+HOARDE
+CLAW
+REPACK
+CONSUME
+NIBBLE
+*PLANT*
+SCURRY
+
+use case for the database, not meant to be long term storage
+short term storage with different types (nuts)
+- each one has intentional obsolescence
+
+at the point where it becomes obsolete, the system reclaims that portion of storage and reallocates it
+meant to be a constantly evolving/everchanging storage (lot of deleteing and reallocating)
+
+
